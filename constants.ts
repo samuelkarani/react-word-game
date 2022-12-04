@@ -1,4 +1,4 @@
-export const API_KEY = 'AIzaSyDg4kdOGOxV4JS8wSuPfD8esvktXJNMTMM';
+export const API_KEY = '';
 export const INITIAL_SCORE = 10;
 export const WINNING_SCORE = 12;
 export const LOSING_SCORE = 8;
